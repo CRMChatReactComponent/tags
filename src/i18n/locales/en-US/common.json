@@ -1,0 +1,17 @@
+{
+  "confirmDelete": "Are you sure to delete it？",
+  "tag": "Tag",
+  "noData": "No data available",
+  "titleLabelName": "Label",
+  "createTag": "Create a Tag",
+  "editTag": "Edit a Tag",
+  "backgroundColorFieldName": "Background Color",
+  "save": "Save",
+  "create": "Create",
+  "edit": "Edit",
+  "cancel": "Cancel",
+  "tagsManage": "Tags",
+  "createSuccessfully": "Created Successfully",
+  "deletedSuccessfully": "Deleted Successfully",
+  "delete": "Delete"
+}
